@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gokul-das
-- 🌱 I’m currently learning MEARN SStack Developer
+- 🌱 I’m currently learning MEARN Full Stack Developer
 
